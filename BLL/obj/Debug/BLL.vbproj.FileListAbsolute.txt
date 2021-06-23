@@ -1,0 +1,15 @@
+C:\Users\SANDRA\Documents\Visual Studio 2012\Projects\registros\BLL\bin\Debug\BLL.dll
+C:\Users\SANDRA\Documents\Visual Studio 2012\Projects\registros\BLL\bin\Debug\BLL.pdb
+C:\Users\SANDRA\Documents\Visual Studio 2012\Projects\registros\BLL\bin\Debug\BLL.xml
+C:\Users\SANDRA\Documents\Visual Studio 2012\Projects\registros\BLL\bin\Debug\DAL.dll
+C:\Users\SANDRA\Documents\Visual Studio 2012\Projects\registros\BLL\bin\Debug\LayerEntyty.dll
+C:\Users\SANDRA\Documents\Visual Studio 2012\Projects\registros\BLL\bin\Debug\DAL.pdb
+C:\Users\SANDRA\Documents\Visual Studio 2012\Projects\registros\BLL\bin\Debug\DAL.xml
+C:\Users\SANDRA\Documents\Visual Studio 2012\Projects\registros\BLL\bin\Debug\LayerEntyty.pdb
+C:\Users\SANDRA\Documents\Visual Studio 2012\Projects\registros\BLL\bin\Debug\LayerEntyty.xml
+C:\Users\SANDRA\Documents\Visual Studio 2012\Projects\registros\BLL\obj\Debug\BLL.vbprojResolveAssemblyReference.cache
+C:\Users\SANDRA\Documents\Visual Studio 2012\Projects\registros\BLL\obj\Debug\BLL.Resources.resources
+C:\Users\SANDRA\Documents\Visual Studio 2012\Projects\registros\BLL\obj\Debug\BLL.vbproj.GenerateResource.Cache
+C:\Users\SANDRA\Documents\Visual Studio 2012\Projects\registros\BLL\obj\Debug\BLL.dll
+C:\Users\SANDRA\Documents\Visual Studio 2012\Projects\registros\BLL\obj\Debug\BLL.xml
+C:\Users\SANDRA\Documents\Visual Studio 2012\Projects\registros\BLL\obj\Debug\BLL.pdb

@@ -1,0 +1,12 @@
+C:\Users\SANDRA\Documents\Visual Studio 2012\Projects\registros\DAL\bin\Debug\DAL.dll
+C:\Users\SANDRA\Documents\Visual Studio 2012\Projects\registros\DAL\bin\Debug\DAL.pdb
+C:\Users\SANDRA\Documents\Visual Studio 2012\Projects\registros\DAL\bin\Debug\DAL.xml
+C:\Users\SANDRA\Documents\Visual Studio 2012\Projects\registros\DAL\bin\Debug\LayerEntyty.dll
+C:\Users\SANDRA\Documents\Visual Studio 2012\Projects\registros\DAL\bin\Debug\LayerEntyty.pdb
+C:\Users\SANDRA\Documents\Visual Studio 2012\Projects\registros\DAL\bin\Debug\LayerEntyty.xml
+C:\Users\SANDRA\Documents\Visual Studio 2012\Projects\registros\DAL\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+C:\Users\SANDRA\Documents\Visual Studio 2012\Projects\registros\DAL\obj\Debug\DAL.Resources.resources
+C:\Users\SANDRA\Documents\Visual Studio 2012\Projects\registros\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+C:\Users\SANDRA\Documents\Visual Studio 2012\Projects\registros\DAL\obj\Debug\DAL.dll
+C:\Users\SANDRA\Documents\Visual Studio 2012\Projects\registros\DAL\obj\Debug\DAL.xml
+C:\Users\SANDRA\Documents\Visual Studio 2012\Projects\registros\DAL\obj\Debug\DAL.pdb

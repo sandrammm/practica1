@@ -1,0 +1,8 @@
+C:\Users\SANDRA\Documents\Visual Studio 2012\Projects\registros\LayerEntyty\bin\Debug\LayerEntyty.dll
+C:\Users\SANDRA\Documents\Visual Studio 2012\Projects\registros\LayerEntyty\bin\Debug\LayerEntyty.pdb
+C:\Users\SANDRA\Documents\Visual Studio 2012\Projects\registros\LayerEntyty\bin\Debug\LayerEntyty.xml
+C:\Users\SANDRA\Documents\Visual Studio 2012\Projects\registros\LayerEntyty\obj\Debug\LayerEntyty.Resources.resources
+C:\Users\SANDRA\Documents\Visual Studio 2012\Projects\registros\LayerEntyty\obj\Debug\LayerEntyty.vbproj.GenerateResource.Cache
+C:\Users\SANDRA\Documents\Visual Studio 2012\Projects\registros\LayerEntyty\obj\Debug\LayerEntyty.dll
+C:\Users\SANDRA\Documents\Visual Studio 2012\Projects\registros\LayerEntyty\obj\Debug\LayerEntyty.xml
+C:\Users\SANDRA\Documents\Visual Studio 2012\Projects\registros\LayerEntyty\obj\Debug\LayerEntyty.pdb
